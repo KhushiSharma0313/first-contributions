@@ -94,6 +94,7 @@
 [Raghav Mehta](https://github.com/raghavmehta1)
 - [Divij](https://github.com/Divij35)
 -[Jitendra](https://github.com/jitendra-121)
+- **Khushi Sharma** [![GitHub](https://img.icons8.com/?size=30&id=sbhfmWq4KRr1)](https://github.com/KhushiSharma0313) [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg)](https://www.linkedin.com/in/khushi0313/) *happy coding*
 - [Meryem Ahmaine](https://github.com/meryemahmaine) - hey !
 - [Michael Lumbera Jr](https://github.com/mlumbera)
 - [Saeed Hossen](https://github.com/appsaeed) 👋
